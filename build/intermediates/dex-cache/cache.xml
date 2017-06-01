@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_9628344e234e828821031ed7e2b1068161bca38a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_8e657bcc1a9de1afca6d064376c513c9bcb65cb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_655bd6ea3564a0be49d530cc859f784ed4a1197d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_04b96d68c2df079d912bfc589fd56b16e15a1c3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_dff25f5dc24619d9d79f8ac8f6191c80e24d4ff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_d5f3c1363781ef0c6ad0c5d7bb79429926c41b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_36d85cbb2c14c84b9cbbe55e6823c3df90de9f78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_01e23abb60dc0af33161dd044ab0ae14e2323838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_8ea6adc4becb2b1e2588e81ce87c7fdf4b7e9f40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_c7d39d08a4957baed45a017ada480aed866a297a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ANDROID\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_768cc057f636262f7606f2f9581b1a98748312b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_06fff92010e815b5ead5282bfd83438180094bee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_b8108869c4f863da9cf70c1c6eba7b296873f61e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_5b1c0e1b8800381a32aff3eabdaf611b02ebf2c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_e4615ec59f47a6f079fd3712a9b6332a9a92ddf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_71686face0e9392ae4f42e73a1ef051e2ded61c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\GITHUB\Android-Serie-Aula05\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_8d532d2b72045141958d15908b539df1057c511c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_aa89cac0283e05897d06d009ef26c52982be30a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\GITHUB\Android-Serie-Aula06\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_4012936c443fabc6ee350f712ece47b164807a78.jar" />
+    </item>
+
+</items>
